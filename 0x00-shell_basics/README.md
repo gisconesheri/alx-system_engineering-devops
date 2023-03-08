@@ -2,3 +2,4 @@
 1-listit script list contents of current directory
 2-bring_me_home script takes user to home directory
 3-listfiles script list directory contents in long format
+4-listmorefiles script shows hidden files
