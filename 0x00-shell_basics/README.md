@@ -3,3 +3,4 @@
 2-bring_me_home script takes user to home directory
 3-listfiles script list directory contents in long format
 4-listmorefiles script shows hidden files
+5-listfilesdigitonly script list user and group ids by number
